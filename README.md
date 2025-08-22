@@ -21,10 +21,13 @@ Payload 9:1:time_or_date:2 for Weather
 9:1:display_on:24
 
 **Random Color Values**
+
 9:2:led_hue:20
+
 9:2:led_saturation:10
 
 **Random Brightness Value**
+
 9:2:led_value:255 (Commented out in the code)
 
 **Example Video**
